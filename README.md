@@ -22,7 +22,6 @@ The information is displayed in a tree format
 
 ```
 py directory_tree.py C:\GitHub
-
 ```
 
 ## Help
